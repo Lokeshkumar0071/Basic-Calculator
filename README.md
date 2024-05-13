@@ -1,0 +1,3 @@
+#  Basic Calculator
+This is simply basic calculator where you can do math's operation's easily and i was making this with the help of HTML,CSS and some with basic knowledge of java programming language 
+so that's all about my this basic calculator project....
